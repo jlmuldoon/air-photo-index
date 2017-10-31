@@ -21,6 +21,11 @@
 
 Further assistance in interpreting which scale of map to use can be found in the [USGS' Map Scales Report](https://pubs.usgs.gov/fs/2002/0015/report.pdf).
 
+## Other Potential Sources of Imagery
+1. The Quick Map Services PlugIn for QGIS can provide current aerial imagery for reference.  Adding the contributed resources (in the settings) adds many more options.
+1. [USGS Earth Explorer](https://earthexplorer.usgs.gov/)
+1. [USGS National Map Viewer](https://viewer.nationalmap.gov)
+
 
  
 ## Get the most recent project files from GitHub 
@@ -71,7 +76,6 @@ Once you've set up your fork, you'll need to update it regularly to make sure yo
 4.	Some things to keep in mind:
     * Note that as you near the edge of a map, you may need to turn off or reorder some of the maps to adjust for the white edges of the scanned maps that obscure the maps underneath.
     * Natural features such as river banks my have shifted over time and may not be in the precisely the same location as the air photo shows.  Do your best to reconcile these differences - the point of this file is to provide a guide to the photo locations and cannot be 100% accurate. 
-	* The Quick Map Services PlugIn for QGIS can provide current aerial imagery for reference.  Adding the contributed resources (in the settings) adds many more options.
 5.	When you are done digitizing, fill out the attribute data based on the information provided on the photo itself or the UC Davis Library catalog record.
 6.	Save Layer Edits.
 7.	Toggle Editing off.
