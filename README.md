@@ -11,5 +11,7 @@ Date | date | Date in YYYY-MM-DD format | 2017-01-30
 Scale | integer | the denominator of the scale fraction | 24000
 
 # Metadata
+
 Project Title
+
 UC Davis Library Call Number
