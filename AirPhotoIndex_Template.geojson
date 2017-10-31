@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "AirPhotoIndex_Template",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3310" } },
+"features": [
+{ "type": "Feature", "properties": { "FlightID": "Example", "Frame": "Example", "Date": "2017\/10\/31", "Scale": 24000 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -154470.811335663223872, 60884.791641139890999 ], [ -154574.378816045384156, 57404.744892905466259 ], [ -151540.967731305456255, 57299.462100884411484 ], [ -151515.465471524454188, 60780.956528979819268 ], [ -154470.811335663223872, 60884.791641139890999 ] ] ] } }
+]
+}
