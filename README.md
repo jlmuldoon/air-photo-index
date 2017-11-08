@@ -6,9 +6,12 @@ Attribute data is data about each photo whose footprint is added to a photoset.
 
 identifier | type | description | example
 ---| --- | --- | ---
-FlightID | text | The code assigned by the aerial photography company to identify the set of photos take on a particular flight | AB-CD-1234
-FrameID | integer | A number identifying a single photo in a given flight | 12
+Author | text | The code indicating the Author-Creator for the photos | USCE
+FlightID | text | The code assigned by the aerial photography company to identify the set of photos take on a particular flight | AM
+FlightNumber | integer | | 1
+FrameNumber | integer | A number identifying a single photo in a given flight | 12
 Date | date | Date in YYYY-MM-DD format | 2017-01-30
+Time | time |  |
 Scale | integer | the denominator of the scale fraction | 24000
 
 # Metadata
