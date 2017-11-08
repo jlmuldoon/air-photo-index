@@ -13,6 +13,7 @@ FrameNumber | integer | A number identifying a single photo in a given flight | 
 Date | date | Date in YYYY-MM-DD format | 2017-01-30
 Time | time |  |
 Scale | integer | the denominator of the scale fraction | 24000
+Used_Maps | text | |
 
 # Metadata
 Metadata is data about an entire photoset.
