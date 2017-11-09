@@ -20,6 +20,5 @@ Metadata is data about an entire photoset.
 
 identifier | type | description | example
 ---| --- | --- | ---
-Project Title | text | an identifying name | Putah Creek 2011
-UC Davis Library Call Number | text | the call number for the photo set found in the UC Davis Library catalog | MAP G4364.D3A4 1969 .D3
+UC Davis Library Call Number | text | the call number for the photo set found in the UC Davis Library catalog | G4362.A42A4 1986 .U6
 Location Description | text | a brief description of the location of the photo set | Putah Creek south of the UC Davis campus
