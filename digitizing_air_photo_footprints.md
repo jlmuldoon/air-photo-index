@@ -57,7 +57,7 @@ Once you've set up your fork, you'll need to update it regularly to make sure yo
 
 ## Digitizing
 ### Set Up Your Project File:
-1.  In your file browser, COPY the template.geojson file into the indexes folder.  Change the name to the name of the index you are working on.
+1.  In your file browser, COPY the template.geojson file into the indexes folder.  Change the name to the call number (without spaces or punctuation) of the index you are working on.
 1.	Open QGIS
 1.	Load data:
     * Your photo set geojson file - the file you will edit
