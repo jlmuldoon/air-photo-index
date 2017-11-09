@@ -8,7 +8,7 @@ identifier | type | description | example
 ---| --- | --- | ---
 author | text | The code indicating the Author-Creator for the photos | USCE
 flight_id | text | The code assigned by the aerial photography company to identify the set of photos take on a particular flight | AM
-flight_number | text* | | 1
+flight_number | text* | A number identifying the flight in a given photo set | 1
 frame_number | text* | A number identifying a single photo in a given flight | 12
 date | date | Date in YYYY-MM-DD format | 2017-01-30
 time | time | Time in 24 hour format; HH:MM:SS | 15:34:00
