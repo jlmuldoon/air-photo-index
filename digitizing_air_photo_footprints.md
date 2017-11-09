@@ -2,8 +2,8 @@
 
 ## Getting Started:
 ### Start with the Issues Tracker
-1. In the Issues section of the Air Photo Index project GitHub page, you should find an Issue for each AVA.  All photo sets in need of digitizing have an issue open on the github repository.  The issues are closed for photo set as they are finished.  Photo sets are given labels to indicate their status.  Open issues labeled as "In Progress" are currently being digitized by a contributor.  Choose a photo set to work on that does not have an "In Progress" label.  
-2. Write a comment for your chosen AVA that you are working on the boundary.  Michele will Add the "In Progress" label to the Issue for the AVA you've chosen to work on.  (Depending on your permissions, you may be able to add the label yourself.)  
+1. In the Issues section of the Air Photo Index project GitHub page, you should find an Issue for each photo set (identified by the call number).  All photo sets in need of digitizing have an issue open on the github repository.  The issues are closed for photo set as they are finished.  Photo sets are given labels to indicate their status.  Open issues labeled as "In Progress" are currently being digitized by a contributor.  Choose a photo set to work on that does not have an "In Progress" label.  
+2. Write a comment for your chosen photoset that you are working on the boundary.  Michele will Add the "In Progress" label to the Issue for the set you've chosen to work on.  (Depending on your permissions, you may be able to add the label yourself.)  
 3. Add additional comments if any issues or questions arise about this particular photo set.  The issues section is a great place to track problems and solutions as the arrise.
 
 
@@ -17,7 +17,6 @@
 7. Click the GEOTIFF download option for the map you would like to download.
 8. Save the file to your local computer.  The file saved will be a zipped folder containing GeoTIFF files.
 9. Navigate to the folder where you saved the file.  Right click the file and select “Extract All”.  Browse to the folder you would like to unzip the folder to, then click the “Extract” button.  The new unzipped folder should contain 4 files.
-10. Repeat all the substeps for Step 2 for each of the Approved Maps needed for your AVA before you move on to the digitizing process in Step 3.
 
 Further assistance in interpreting which scale of map to use can be found in the [USGS' Map Scales Report](https://pubs.usgs.gov/fs/2002/0015/report.pdf).
 
@@ -42,7 +41,7 @@ Once you've set up your fork, you'll need to update it regularly to make sure yo
 1. You will now run a few commands to update your fork ([reference](https://gist.github.com/CristinaSolana/1885435)).
     1. The first time you'll need to set an upstream repository for your fork:
     ```
-        git remote add upstream git://github.com/UCDavisLibrary/ava.git
+        git remote add upstream git://github.com/UCDavisLibrary/air-photo-index.git
     ```
         
     2. Now you'll fetch any changes:
@@ -58,7 +57,7 @@ Once you've set up your fork, you'll need to update it regularly to make sure yo
 
 ## Digitizing
 ### Set Up Your Project File:
-1.  In your file browser, COPY the AirPhotoIndex_Template.geojson file into the indexes folder.  Change the name to the name of the index you are working on.
+1.  In your file browser, COPY the template.geojson file into the indexes folder.  Change the name to the name of the index you are working on.
 1.	Open QGIS
 1.	Load data:
     * Your photo set geojson file - the file you will edit
@@ -82,10 +81,10 @@ Once you've set up your fork, you'll need to update it regularly to make sure yo
 8.	Close QGIS if you’re done making new polygons, or start over from Step 2 above to make another.
 
 
-## Submit your changes to the AVA GitHub Repository
+## Submit your changes to the GitHub Repository
 1.	In GitHub for Desktop, you should see a list of changes you’ve made to the files.  Fill in the Summary and Description fields at the bottom of the window and then click the Commit button.  https://guides.github.com/activities/forking/#making-changes 
 2.	If you are ready to incorporate your changes into the main branch, submit a pull request for your fork: https://help.github.com/articles/creating-a-pull-request-from-a-fork/ 
-3.  If your changes are accepted, project adminsitrators will incorporated your changes and close the issue for your AVA.  If there is any problems or questions, the project administrators will contact you.
+3.  If your changes are accepted, project adminsitrators will incorporated your changes and close the issue for your photo set.  If there is any problems or questions, the project administrators will contact you.
 
 ## Notes for pull request reviewers:
 If you want to accept only some of the changes offered in a pull request, you will need to use the command line to [cherry-pick](https://mattstauffer.co/blog/how-to-merge-only-specific-commits-from-a-pull-request) the committs that you want to keep.
