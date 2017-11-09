@@ -11,9 +11,9 @@ FlightID | text | The code assigned by the aerial photography company to identif
 FlightNumber | integer | | 1
 FrameNumber | integer | A number identifying a single photo in a given flight | 12
 Date | date | Date in YYYY-MM-DD format | 2017-01-30
-Time | time |  |
+Time | time | Time in 24 hour format; HH:MM:SS | 15:34:00
 Scale | integer | the denominator of the scale fraction | 24000
-Used_Maps | text | |
+Used_Maps | text | A description of the maps used as a reference when digitizing the photo corners | USGS Topo Quad “San Francisco, Cal.”, scaled 1:250,000, edition of 1956, revised 1980; Google Satellite accessed 2017-11-08
 
 # Metadata
 Metadata is data about an entire photoset.
