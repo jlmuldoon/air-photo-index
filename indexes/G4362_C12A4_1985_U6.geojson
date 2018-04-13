@@ -3,7 +3,6 @@
 "name": "AirPhotoIndex_Template",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3310" } },
 "features": [
-{ "type": "Feature", "properties": { "author": "USCE", "flight_id": "AM", "flight_number": "1", "frame_number": "12", "date": "2017\/01\/30", "time": "", "scale": 24000, "used_maps": "USGS Topo Quad “San Francisco, Cal.”, scaled 1:250,000, edition of 1956, revised 1980; Google Satellite accessed 2017-11-08" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -154470.811335663223872, 60884.791641139890999 ], [ -154574.378816045384156, 57404.744892905466259 ], [ -151540.967731305456255, 57299.462100884411484 ], [ -151515.465471524454188, 60780.956528979819268 ], [ -154470.811335663223872, 60884.791641139890999 ] ] ] } },
 { "type": "Feature", "properties": { "author": "USCE", "flight_id": "CC", "flight_number": "1", "frame_number": "1", "date": "1985\/06\/10", "time": "09:08:00", "scale": 6000, "used_maps": "Madison" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2052.458907946711406, 4284118.002708798274398 ], [ -1324.779174759518583, 4285325.720476286485791 ], [ -117.061407270841528, 4284598.040743099525571 ], [ -844.741140457859956, 4283390.322975610382855 ], [ -2052.458907946711406, 4284118.002708798274398 ] ] ] } }
 ]
 }
