@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "AirPhotoIndex_Template",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3310" } },
+"features": [
+{ "type": "Feature", "properties": { "author": "USCE", "flight_id": "CC", "flight_number": "1", "frame_number": "1", "date": "1987\/03\/31", "time": "10:19:00", "scale": 12600, "used_maps": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -223540.796722362807486, 102255.0549137480848 ], [ -220660.008889667835319, 102091.976334539795062 ], [ -220496.930310459545581, 104972.764167234767228 ], [ -223377.718143154517747, 105135.842746443056967 ], [ -223540.796722362807486, 102255.0549137480848 ] ] ] } },
+{ "type": "Feature", "properties": { "author": "USCE", "flight_id": "CC", "flight_number": "1", "frame_number": "1", "date": "1987\/03\/31", "time": "10:19:00", "scale": 12600, "used_maps": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -224677.380632213607896, 102320.619809419411467 ], [ -221796.592799518635729, 102157.541230211121729 ], [ -221633.514220310345991, 105038.329062906093895 ], [ -224514.302053005318157, 105201.407642114383634 ], [ -224677.380632213607896, 102320.619809419411467 ] ] ] } }
+]
+}
