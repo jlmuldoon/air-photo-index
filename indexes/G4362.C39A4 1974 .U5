@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "AirPhotoIndex_Template",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3310" } },
+"features": [
+{ "type": "Feature", "properties": { "author": "USGS", "flight_id": "3\/7", "flight_number": "10", "frame_number": "19", "date": "1974\/07\/17", "time": null, "scale": 34000, "used_maps": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -178066.603815317124827, 19180.631014696555212 ], [ -186387.351725207176059, 19389.327269357680052 ], [ -186636.513621332444018, 10863.086218241358438 ], [ -178315.765711442392785, 10654.38996358022996 ], [ -178066.603815317124827, 19180.631014696555212 ] ] ] } }
+]
+}
