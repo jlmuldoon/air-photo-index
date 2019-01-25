@@ -64,7 +64,7 @@ Once you've set up your fork, you'll need to update it regularly to make sure yo
     * Relevant topop maps
 1.	Set Project Projection
     * Open the Project Properties (Project menu → Project Properties)
-    * Set the Coordinate Reference System to California Albers (EPSG:3310)
+    * Set the Coordinate Reference System to WGS84 (EPSG:4326).  This is the projection for the geojson files.  You may need to change it to "Popular Mercator" (EPSG:3857) if you decide to work with a web service for your background layer.
 
 
 ### Digitizing the Boundary:
