@@ -1,6 +1,9 @@
 # air-photo-index
 Special Collections is developing digital air photo indexes for air photo collections held in the Map Collection.  The purpose of this project is to locate individual photos in space to assist patrons in finding photos that relate to a particular location.
 
+# Contributing to this Project
+The [Getting Started](/GettingStarted.md) document has links to materials to train you to use QGIS and GitHub, both of which are critical to this project.  Instructions for how to digitize air photo footprints are described in the [Digitizing Air Photo Footprints](/digitizing_air_photo_footprints.md) document.
+
 # Attribute Data Definitions
 Attribute data is data about each photo whose footprint is added to a photoset.
 
