@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "template_4326",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "author": null, "flight_id": null, "flight_number": null, "frame_number": null, "date": null, "time": null, "scale": null, "used_maps": null }, "geometry": null },
+{ "type": "Feature", "properties": { "author": "Aero Service Corp", "flight_id": "HS", "flight_number": "6", "frame_number": "14", "date": "1960\/06\/02", "time": null, "scale": null, "used_maps": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -124.190156253813754, 40.261659420870501 ], [ -124.224434659931362, 40.261659420870501 ], [ -124.224434659931362, 40.233844627466219 ], [ -124.19044964958654, 40.233844627466219 ], [ -124.190156253813754, 40.261659420870501 ] ] ] } },
+{ "type": "Feature", "properties": { "author": "Aero Service Corp", "flight_id": "HS", "flight_number": "6", "frame_number": "13", "date": "1960\/06\/02", "time": null, "scale": null, "used_maps": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -124.224385760635926, 40.251723546038299 ], [ -124.19023775263959, 40.251723546038299 ], [ -124.19023775263959, 40.224610936569768 ], [ -124.224271662279861, 40.224610936569768 ], [ -124.224385760635926, 40.251723546038299 ] ] ] } }
+]
+}
