@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "template_4326",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "author": "Aero Service Corp", "flight_id": "HS", "flight_number": "3", "frame_number": "17", "date": "1960\/06\/02", "time": null, "scale": null, "used_maps": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -124.287187983338299, 40.31218890181151 ], [ -124.25301299559095, 40.31218890181151 ], [ -124.25301299559095, 40.338892674102887 ], [ -124.286486444000317, 40.338892674102887 ], [ -124.287187983338299, 40.31218890181151 ] ] ] } }
-]
-}
