@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "template_4326",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "author": "USCE", "flight_id": "AM", "flight_number": "1", "frame_number": "12", "date": "2017\/01\/30", "time": "", "scale": 24000, "used_maps": "USGS Topo Quad “San Francisco, Cal.”, scaled 1:250,000, edition of 1956, revised 1980; Google Satellite accessed 2017-11-08" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -121.774572263509313, 38.551064589292665 ], [ -121.775013372982741, 38.51974581667946 ], [ -121.740165724582141, 38.519304707206025 ], [ -121.740606834055569, 38.550623479819187 ], [ -121.774572263509313, 38.551064589292665 ] ] ] } },
+{ "type": "Feature", "properties": { "author": "USCE", "flight_id": "SJ", "flight_number": "05", "frame_number": "21", "date": "1986\/11\/08", "time": null, "scale": null, "used_maps": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -121.410973293480325, 37.791875285430599 ], [ -121.410973293480325, 37.778432937470505 ], [ -121.427625587624576, 37.778432937470505 ], [ -121.427625587624576, 37.791847106965172 ], [ -121.410973293480325, 37.791875285430599 ] ] ] } },
+{ "type": "Feature", "properties": { "author": "USCE", "flight_id": "SJ", "flight_number": "05", "frame_number": "22", "date": "1986\/11\/08", "time": null, "scale": null, "used_maps": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -121.410741516366983, 37.781673978785413 ], [ -121.427643416633302, 37.781673978785413 ], [ -121.427643416633302, 37.768257962851294 ], [ -121.410563226279791, 37.768257962851294 ], [ -121.410741516366983, 37.781673978785413 ] ] ] } }
+]
+}
