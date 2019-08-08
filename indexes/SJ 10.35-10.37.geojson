@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "template_4326",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "author": "USCE", "flight_id": "AM", "flight_number": "1", "frame_number": "12", "date": "2017\/01\/30", "time": "", "scale": 24000, "used_maps": "USGS Topo Quad “San Francisco, Cal.”, scaled 1:250,000, edition of 1956, revised 1980; Google Satellite accessed 2017-11-08" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -121.775013372982741, 38.519304707206025 ], [ -121.740165724582141, 38.519304707206025 ], [ -121.740165724582141, 38.551064589292665 ], [ -121.775013372982741, 38.551064589292665 ], [ -121.775013372982741, 38.519304707206025 ] ] ] } },
+{ "type": "Feature", "properties": { "author": "USCE", "flight_id": "SJ", "flight_number": "10", "frame_number": "35", "date": "1986\/11\/08", "time": null, "scale": null, "used_maps": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -121.438662169463441, 37.816104416810205 ], [ -121.425594913131334, 37.806631814651503 ], [ -121.413037875050804, 37.81623877122 ], [ -121.426530313259235, 37.826001203838281 ], [ -121.438662169463441, 37.816104416810205 ] ] ] } },
+{ "type": "Feature", "properties": { "author": "USCE", "flight_id": "SJ", "flight_number": "10", "frame_number": "36", "date": "1986\/11\/08", "time": null, "scale": null, "used_maps": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -121.427980965209912, 37.808600706963354 ], [ -121.415965036304641, 37.818287846504624 ], [ -121.405035854387336, 37.809827029376699 ], [ -121.41715771486443, 37.800053363158497 ], [ -121.427980965209912, 37.808600706963354 ] ] ] } },
+{ "type": "Feature", "properties": { "author": "USCE", "flight_id": "SJ", "flight_number": "10", "frame_number": "37", "date": "1986\/11\/08", "time": null, "scale": null, "used_maps": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -121.418604478732064, 37.801107786545948 ], [ -121.406150508686281, 37.811208337869175 ], [ -121.395956173580345, 37.801886539068704 ], [ -121.40811857700885, 37.792749249788557 ], [ -121.418604478732064, 37.801107786545948 ] ] ] } }
+]
+}
